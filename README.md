@@ -1,7 +1,7 @@
 # SHA-69
 
 a basic hashing algorithm
-> [!CAUTION]
+> [!IMPORTANT]
 > This is a proof of concept, while it's secure I recommend using a more reliable encryption method like SHA-256 
 ## Python:
 `pip install sbsha69`  
