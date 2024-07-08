@@ -1,6 +1,6 @@
 <?php
 
-function sbsha69($input_string) {
+function sha69($input_string) {
     // Initialize hash value
     $hash_value = 0;
     
