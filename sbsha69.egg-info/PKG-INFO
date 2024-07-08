@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: sbsha69
+Version: 12.0.0
+Summary: Basic encryption algorithm
+Home-page: https://github.com/yourusername/sbsha69
+Author: PythonScratcher
+Author-email: me@psr.tf
+License: MIT
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Description-Content-Type: text/markdown
+
+# sbSHA-69

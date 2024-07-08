@@ -1,18 +1,21 @@
-from setuptools import setup, find_packages
+from setuptools import setup
 
 setup(
-    name='sha69',
-    version='0.1',
-    packages=find_packages(),
-    description='Custom hashing algorithm (SHA-69) implementation',
-    author='Your Name',
-    author_email='mc@psr.tf',
+    name='sbsha69',
+    version='12.0.0',
+    py_modules=['sbsha69'],
+    author='PythonScratcher',
+    author_email='me@psr.tf',
+    description='Basic encryption algorithm',
+    long_description=open('README.md').read(),
+    long_description_content_type='text/markdown',
+    url='https://github.com/yourusername/sbsha69',
     license='MIT',
-    keywords='hashing sha-69',
-    url='https://github.com/PythonScratcher/SHA-69',
     classifiers=[
-        'Programming Language :: Python :: 3',
         'License :: OSI Approved :: MIT License',
-        'Operating System :: OS Independent',
+        'Programming Language :: Python :: 3',
+        'Programming Language :: Python :: 3.8',
+        'Programming Language :: Python :: 3.9',
+        'Programming Language :: Python :: 3.10',
     ],
 )
