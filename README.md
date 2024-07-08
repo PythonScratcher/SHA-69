@@ -3,6 +3,6 @@
 a basic hashing algorithm
 
 Python:
-`pip install sbsha69`
+`pip install sbsha69` 
 PHP: 
 file in the github
